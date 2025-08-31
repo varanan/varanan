@@ -13,7 +13,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-varanan--baskaran-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="tel:+94705760922">
-    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B94%2070%20576%200922-0A66C2?style=for-the-badge&logo=ios"/>
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B94%2070%20576%200922-0A66C2?style=for-the-badge"/>
   </a>
   <img alt="Open to Opportunities" src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge"/>
 </p>
