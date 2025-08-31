@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kojithan.y@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-kojithan.y%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:varanankb@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-varanankb%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/kojithan-y">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kojithan--y-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/varanan-baskaran">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-varanan--baskaran-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="tel:+94779108836">
-    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B94%2077%20910%208836-0A66C2?style=for-the-badge&logo=ios"/>
+  <a href="tel:+94705760922">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B94%2070%20576%200922-0A66C2?style=for-the-badge&logo=ios"/>
   </a>
   <img alt="Open to Opportunities" src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge"/>
 </p>
@@ -81,9 +81,9 @@
 ---
 
 ## 📬 Contact
-- 📞 **+94 77 910 8836**  
-- 📧 **kojithan.y@gmail.com**  
-- 🔗 **LinkedIn**: <a href="https://www.linkedin.com/in/kojithan-y">/in/kojithan-y</a>
+- 📞 **+94 70 576 0922**  
+- 📧 **varanankb@gmail.com**  
+- 🔗 **LinkedIn**: <a href="https://www.linkedin.com/in/varanan-baskaran">/in/varanan-baskaran</a>
 
 ---
 
